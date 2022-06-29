@@ -1,0 +1,541 @@
+
+<!DOCTYPE html>
+<html lang="ko">
+
+<head>
+<link rel="stylesheet" type="text/css" href="https://t1.daumcdn.net/tistory_admin/lib/lightbox/css/lightbox.min.css" /><link rel="stylesheet" type="text/css" href="https://t1.daumcdn.net/tistory_admin/assets/blog/tistory-09c71475f879581a73050d7dc9cf01bf9f75e06d/blogs/style/content/font.css?_version_=tistory-09c71475f879581a73050d7dc9cf01bf9f75e06d" /><link rel="stylesheet" type="text/css" href="https://t1.daumcdn.net/tistory_admin/assets/blog/tistory-09c71475f879581a73050d7dc9cf01bf9f75e06d/blogs/style/content/content.css?_version_=tistory-09c71475f879581a73050d7dc9cf01bf9f75e06d" /><!--[if lt IE 9]><script src="https://t1.daumcdn.net/tistory_admin/lib/jquery/jquery-1.12.4.min.js"></script><![endif]--><!--[if gte IE 9]>
+<!--><script src="//t1.daumcdn.net/tistory_admin/lib/jquery/jquery-3.5.1.min.js" integrity="sha256-9/aliU8dGd2tb6OSsuzixeV4y/faTqgFtohetphbbj0=" crossorigin="anonymous"></script><!--<![endif]-->
+<script src="https://t1.daumcdn.net/tistory_admin/lib/lightbox/js/lightbox-plus-jquery.min.js"></script>
+<script>
+lightbox.options.fadeDuration = 200;
+lightbox.options.resizeDuration = 200;
+lightbox.options.wrapAround = false;
+lightbox.options.albumLabel = "%1 / %2";
+</script>
+<script>var tjQuery = jQuery.noConflict(true);</script><style type="text/css">.tt_article_useless_p_margin p {padding-top:0 !important;padding-bottom:0 !important;margin-top:0 !important;margin-bottom:0 !important;}</style><meta name="referrer" content="always"><link rel="icon" href="//t1.daumcdn.net/tistory_admin/static/top/favicon_0630.ico" /><link rel="apple-touch-icon" href="//img1.daumcdn.net/thumb/C180x180/?fname=https%3A%2F%2Ftistory3.daumcdn.net%2Ftistory%2F5437383%2Fattach%2Fab9c5baca7ea4c0290cb2280f12f6395">
+<link rel="apple-touch-icon" sizes="76x76" href="//img1.daumcdn.net/thumb/C76x76/?fname=https%3A%2F%2Ftistory3.daumcdn.net%2Ftistory%2F5437383%2Fattach%2Fab9c5baca7ea4c0290cb2280f12f6395">
+<link rel="apple-touch-icon" sizes="120x120" href="//img1.daumcdn.net/thumb/C120x120/?fname=https%3A%2F%2Ftistory3.daumcdn.net%2Ftistory%2F5437383%2Fattach%2Fab9c5baca7ea4c0290cb2280f12f6395">
+<link rel="apple-touch-icon" sizes="152x152" href="//img1.daumcdn.net/thumb/C152x152/?fname=https%3A%2F%2Ftistory3.daumcdn.net%2Ftistory%2F5437383%2Fattach%2Fab9c5baca7ea4c0290cb2280f12f6395">
+<meta name="google-adsense-platform-account" content="ca-host-pub-9691043933427338">
+<meta name="google-adsense-platform-domain" content="tistory.com">
+<meta name="description" content="six dia 숙제 연습">
+
+<!-- BEGIN OPENGRAPH -->
+<link rel="canonical" href="https://joo-sk.tistory.com" /><meta property="og:type" content="website" /><meta property="og:url" content="https://joo-sk.tistory.com" /><meta property="og:site_name" content="일상" ><meta property="og:title" content="일상" ><meta property="og:description" content="six dia 숙제 연습" ><meta property="og:image" content="https://tistory1.daumcdn.net/tistory/5437383/attach/ab9c5baca7ea4c0290cb2280f12f6395" ><meta property="og:article:author" content="joo*" >
+<!-- END OPENGRAPH -->
+
+
+
+<!-- BEGIN TWITTERCARD -->
+<meta name="twitter:card" content="summary_large_image"><meta name="twitter:site" content="@TISTORY"><meta name="twitter:title" content="일상" ><meta name="twitter:description" content="six dia 숙제 연습" ><meta property="twitter:image" content="https://tistory1.daumcdn.net/tistory/5437383/attach/ab9c5baca7ea4c0290cb2280f12f6395" >
+<!-- END TWITTERCARD -->
+
+
+
+<!-- BEGIN STRUCTURED_DATA -->
+<script type="application/ld+json">{"@context":"http:\/\/schema.org","@type":"WebSite","url":"\/","potentialAction":{"@type":"SearchAction","target":"\/search\/{search_term_string}","query-input":"required name=search_term_string"}}</script>
+<!-- END STRUCTURED_DATA -->
+
+
+  <title>일상</title>
+  <meta name="title" content="일상 :: 일상" />
+  <meta name="description" Content="six dia 숙제 연습" />
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, height=device-height, initial-scale=1, minimum-scale=1.0, maximum-scale=1.0" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge, chrome=1" />
+  <link rel="alternate" type="application/rss+xml" title="일상" href="https://joo-sk.tistory.com/rss" />
+  <link rel="shortcut icon" href="/favicon.ico" />
+  <link rel="stylesheet" href="https://t1.daumcdn.net/tistory_admin/static/font/AvenirLTStd/AvenirLTStd.css" />
+  <link rel="stylesheet" href="https://t1.daumcdn.net/tistory_admin/static/font/SpoqaHanSans/SpoqaHanSans.css" />
+  <link rel="stylesheet" href="https://t1.daumcdn.net/tistory_admin/static/font/icomoon/icomoon.css" />
+  <link rel="stylesheet" href="https://tistory1.daumcdn.net/tistory/0/xf_Portfolio/style.css" />
+  <link rel="stylesheet" href="https://tistory1.daumcdn.net/tistory/0/xf_Portfolio/images/slick.css" />
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.js"></script>
+  <script src="https://tistory1.daumcdn.net/tistory/0/xf_Portfolio/images/slick.js"></script>
+  <script src="https://tistory1.daumcdn.net/tistory/0/xf_Portfolio/images/common.js"></script>
+  <script src="https://unpkg.com/vh-check/dist/vh-check.min.js"></script>
+  <script>
+    (function () {
+      // initialize the test
+      var test = vhCheck();
+    }());
+  </script>
+
+<style type="text/css">
+		#daumSearchBox {
+			height: 21px;
+			background-image : url(//i1.daumcdn.net/imgsrc.search/search_all/show/tistory/plugin/bg_search2_2.gif);
+			margin: 5px auto ;
+			padding: 0;
+		}
+		#daumSearchBox input {
+			background: none;
+			margin : 0;
+			padding : 0;
+			border : 0;
+		}
+		#daumSearchBox #daumLogo {
+			width: 34px;
+			height: 21px;
+			float: left;
+			margin-right: 5px;
+			background-image : url(//i1.daumcdn.net/img-media/tistory/img/bg_search1_2_2010ci.gif);
+		}
+		#daumSearchBox #show_q {
+			background-color: transparent;
+			border: none;
+			font: 12px Gulim, Sans-serif;
+			color: #555;
+			margin-top: 4px;
+			margin-right: 15px;
+			float: left;
+		}
+
+		#daumSearchBox #show_btn {
+			background-image : url(//i1.daumcdn.net/imgsrc.search/search_all/show/tistory/plugin/bt_search_2.gif);
+			width: 37px;
+			height: 21px;
+			float: left;
+			margin:0;
+			cursor:pointer;
+			text-indent:-1000em;
+		}
+	</style>
+<link rel="stylesheet" type="text/css" href="https://t1.daumcdn.net/tistory_admin/assets/blog/tistory-09c71475f879581a73050d7dc9cf01bf9f75e06d/blogs/plugins/TistoryProfileLayer/style.css?_version_=tistory-09c71475f879581a73050d7dc9cf01bf9f75e06d" />
+<script type="text/javascript" src="https://t1.daumcdn.net/tistory_admin/assets/blog/tistory-09c71475f879581a73050d7dc9cf01bf9f75e06d/blogs/plugins/TistoryProfileLayer/profile.js?_version_=tistory-09c71475f879581a73050d7dc9cf01bf9f75e06d"></script>
+	<style type="text/css">
+		.another_category { border: 1px solid #E5E5E5; padding: 10px 10px 5px; margin:10px 0; clear: both; }
+		.another_category h4 { font-size: 12px !important; margin: 0 !important; border-bottom: 1px solid #E5E5E5 !important; padding: 2px 0 6px !important; }
+		.another_category h4 a { font-weight: bold !important; }
+		.another_category table { table-layout: fixed; border-collapse: collapse; width: 100% !important; margin-top: 10px !important; }
+		* html .another_category table { width: auto !important; }
+		*:first-child+html .another_category table { width: auto !important; }
+		.another_category th, .another_category td { padding: 0 0 4px !important; }
+		.another_category th { text-align: left; font-size: 12px !important; font-weight: normal;  word-break: break-all; overflow: hidden; line-height: 1.5; }
+		.another_category td { text-align: right; width: 80px; font-size: 11px; }
+		.another_category th a { font-weight: normal; text-decoration: none; border: none !important; }
+		.another_category th a.current{ font-weight: bold; text-decoration: none !important; border-bottom: 1px solid !important; }
+		.another_category th span { font-weight: normal; text-decoration: none; font: 10px Tahoma, Sans-serif; border: none !important; }
+
+		.another_category_color_gray, .another_category_color_gray h4 { border-color: #E5E5E5 !important; }
+		.another_category_color_gray * { color: #909090 !important; }
+		.another_category_color_gray th a.current{border-color:#909090 !important;}
+		.another_category_color_gray h4, .another_category_color_gray h4 a { color: #737373 !important; }
+
+
+		.another_category_color_red, .another_category_color_red h4 { border-color: #F6D4D3 !important;  }
+		.another_category_color_red * { color: #E86869 !important; }
+		.another_category_color_red th a.current{border-color:#E86869 !important;}
+		.another_category_color_red h4, .another_category_color_red h4 a { color: #ED0908 !important; }
+
+
+		.another_category_color_green, .another_category_color_green h4 { border-color: #CCE7C8 !important; }
+		.another_category_color_green * { color: #64C05B !important; }
+		.another_category_color_green th a.current{border-color:#64C05B !important;}
+		.another_category_color_green h4, .another_category_color_green h4 a { color: #3EA731 !important; }
+
+
+		.another_category_color_blue, .another_category_color_blue h4 { border-color: #C8DAF2 !important; }
+		.another_category_color_blue * { color: #477FD6 !important; }
+		.another_category_color_blue th a.current{border-color:#477FD6 !important;}
+		.another_category_color_blue h4, .another_category_color_blue h4 a { color: #1960CA !important; }
+
+
+		.another_category_color_violet, .another_category_color_violet h4 { border-color: #E1CEEC !important;  }
+		.another_category_color_violet * { color:#9D64C5 !important; }
+		.another_category_color_violet th a.current{border-color:#9D64C5 !important;}
+		.another_category_color_violet h4, .another_category_color_violet h4 a { color: #7E2CB5 !important; }
+	</style>
+<script type="text/javascript">
+        
+        window.TistoryBlog = {
+            basePath: "",
+            url: "https://joo-sk.tistory.com",
+            tistoryUrl: "https://joo-sk.tistory.com",
+			manageUrl: 'https://joo-sk.tistory.com/manage',
+            token: 'KmHM3MjEIROb10Q1t0SAKQ=='
+        };
+        var servicePath = "";
+        var blogURL = "";
+    </script>
+
+	<script> (function() { window.orgjQuery = window.jQuery; window.jQuery = tjQuery })()</script>
+    <script type="text/javascript" defer src=https://t1.daumcdn.net/tistory_admin/assets/blog/tistory-09c71475f879581a73050d7dc9cf01bf9f75e06d/blogs/script/reaction/reaction-button-container.min.js?_version_=tistory-09c71475f879581a73050d7dc9cf01bf9f75e06d></script>
+    <script> (function() { window.jQuery = window.orgjQuery; delete window.orgjQuery })()</script>
+        <script type="text/javascript" src="https://t1.daumcdn.net/tistory_admin/assets/blog/tistory-09c71475f879581a73050d7dc9cf01bf9f75e06d/blogs/script/_/base.js?_version_=tistory-09c71475f879581a73050d7dc9cf01bf9f75e06d"></script>
+        <link rel="stylesheet" type="text/css" href="https://t1.daumcdn.net/tistory_admin/assets/blog/tistory-09c71475f879581a73050d7dc9cf01bf9f75e06d/blogs/style/dialog.css?_version_=tistory-09c71475f879581a73050d7dc9cf01bf9f75e06d"/>
+            <link rel="stylesheet" type="text/css" href="//t1.daumcdn.net/tistory_admin/www/style/top/font.css">
+    <link rel="stylesheet" type="text/css" href="https://t1.daumcdn.net/tistory_admin/assets/blog/tistory-09c71475f879581a73050d7dc9cf01bf9f75e06d/blogs/style/postBtn.css?_version_=tistory-09c71475f879581a73050d7dc9cf01bf9f75e06d"/>
+        <link rel="stylesheet" type="text/css" href="https://t1.daumcdn.net/tistory_admin/assets/blog/tistory-09c71475f879581a73050d7dc9cf01bf9f75e06d/blogs/style/component/tistory.css?_version_=tistory-09c71475f879581a73050d7dc9cf01bf9f75e06d" />
+        <script type="text/javascript" src="//developers.kakao.com/sdk/js/kakao.min.js"></script></head>
+
+<body id="tt-body-index" class="theme_pink">
+  <script type="text/javascript">
+	(function() {
+		if (!window.T) {
+			window.T = {}
+		}
+		window.T.config = {"TOP_SSL_URL":"https:\/\/www.tistory.com","PREVIEW":false,"ROLE":"owner","PREV_PAGE":"","NEXT_PAGE":"","BLOG":{"isDormancy":false,"title":"\uc77c\uc0c1"},"NEED_COMMENT_LOGIN":false,"COMMENT_LOGIN_CONFIRM_MESSAGE":"","LOGIN_URL":"https:\/\/www.tistory.com\/auth\/login\/?redirectUrl=http%3A%2F%2Fjoo-sk.tistory.com%2F","DEFAULT_URL":"https:\/\/joo-sk.tistory.com","USER":{"name":"joo*","homepage":"https:\/\/joo-sk.tistory.com"},"ROLE_GROUP":"member","SUBSCRIPTION":{"status":"none","isConnected":false,"isProcessing":false,"isPending":false,"isWait":false,"isNone":true},"IS_LOGIN":true,"HAS_BLOG":true,"TOP_URL":"https:\/\/www.tistory.com","JOIN_URL":"https:\/\/www.tistory.com\/member\/join"};
+		window.appInfo = {"domain":"tistory.com","topUrl":"https:\/\/www.tistory.com","loginUrl":"https:\/\/www.tistory.com\/auth\/login","logoutUrl":"https:\/\/www.tistory.com\/auth\/logout"};
+
+        window.initData = {};
+                    initData.user = {"id":"5444556","loginId":"joo-sk@kakao.com","name":"joo*"};
+        
+	})();
+</script>
+
+	<script type="text/javascript" src="https://t1.daumcdn.net/tistory_admin/assets/blog/tistory-09c71475f879581a73050d7dc9cf01bf9f75e06d/blogs/script/owner.js?_version_=tistory-09c71475f879581a73050d7dc9cf01bf9f75e06d"></script>
+<script type="text/javascript" src="https://t1.daumcdn.net/tistory_admin/assets/blog/tistory-09c71475f879581a73050d7dc9cf01bf9f75e06d/blogs/script/blog/common.js?_version_=tistory-09c71475f879581a73050d7dc9cf01bf9f75e06d"></script>
+<div style="margin:0; padding:0; border:none; background:none; float:none; clear:none; z-index:0"></div>
+    <!-- warp / 테마 변경시 theme_pink / theme_blue / theme_green / theme_gray-->
+    <div id="wrap">
+
+      
+      <!-- box_header -->
+      <header class="box_header">
+        <h1 class="title_logo">
+          <a href="/" title="일상" class="link_logo">
+            
+            
+              일상
+            
+          </a>
+        </h1>
+
+        <!-- <h1 class="title_logo" style="background-image:url('https://tistory1.daumcdn.net/tistory/0/xf_Portfolio/images/logo.jpg')"></h1> -->
+        <button class="btn_search"></button>
+
+        <!-- 메뉴 및 검색 버튼 클릭시 area_sidebar / area_popup 논처리 삭제 / body 에 style="overflow:hidden" 추가 -->
+        <button type="button" class="btn_menu" title="메뉴"><span class="blind">메뉴</span></button>
+      </header>
+      <!-- // box_header -->
+
+      <!-- container -->
+      <div id="container">
+
+        <!-- area_sidebar -->
+        <aside class="area_sidebar thema_apply" style="display: none;">
+
+          <div class="inner_sidebar">
+            <div class="sidebar_header">
+              <h1 class="title_logo">
+                <a href="/" title="일상" class="link_logo">
+                  
+                  
+                    일상
+                  
+                </a>
+              </h1>
+              <button type="button" class="btn_close" title="닫기"><span class="icon-Close"></span></button>
+            </div>
+
+            <div class="sidebar_contents">
+              <div class="sidebar_menu">
+                
+                    <div class="sidebar_left">
+                      <!-- 카테고리 메뉴 -->
+                      <div class="box_gnb">
+                        <nav>
+                          <ul class="tt_category">
+	<li class="">
+		<a class="link_tit" href="/category">
+			분류 전체보기							<span class="c_cnt">(2)</span>
+			
+							<img src="https://t1.daumcdn.net/tistory_admin/assets/blog/tistory-09c71475f879581a73050d7dc9cf01bf9f75e06d/blogs/image/category/new_ico_5.gif?_version_=tistory-09c71475f879581a73050d7dc9cf01bf9f75e06d" alt="N" style='vertical-align:middle;padding-left:2px;' />
+					</a>
+
+			</li>
+</ul>
+                        </nav>
+                      </div>
+                  
+                    <!-- 메인 메뉴 -->
+                    <div class="box_gnb">
+                      <ul>		<li class="t_menu_home first">
+			<a href="/">홈</a>
+		</li>
+				<li class="t_menu_tag">
+			<a href="/tag">태그</a>
+		</li>
+				<li class="t_menu_guestbook last">
+			<a href="/guestbook">방명록</a>
+		</li>
+		</ul>
+                    </div>
+              </div>
+              
+                <div class="sidebar_right">
+                  <!-- 링크 -->
+                  <div class="box_sns">
+                    <ul class="list_sns">
+                      
+                    </ul>
+                  </div>
+              
+                <!-- RSS 피드 -->
+                <div class="add_link">
+                  <a href="https://joo-sk.tistory.com/rss" target="_blank" class="link_add">RSS 피드</a>
+                </div>
+            </div>
+            
+          </div>
+
+          <!-- 관리 -->
+          <div class="box_tool">
+            <div class="btn-for-guest">
+              <a href="#" class="link_tool" data-action="login">로그인</a>
+            </div>
+            <div class="btn-for-user">
+              <a href="#" class="link_tool" data-action="logout">로그아웃</a>
+              <a href="https://joo-sk.tistory.com/manage/entry/post" class="link_tool">글쓰기</a>
+              <a href="https://joo-sk.tistory.com/manage" class="link_tool">관리</a>
+            </div>
+          </div>
+      </div>
+    </div>
+
+    <div class="dimmed_sidebar"></div>
+    </aside>
+
+    <!-- // area_sidebar -->
+
+    <!-- area_popup -->
+    <div class="area_popup" style="display: none;">
+      <div class="area_search thema_apply">
+        <div class="search_header">
+          <h1 class="title_logo">
+            <a href="/" title="일상" class="link_logo">
+              
+              
+                일상
+              
+            </a>
+          </h1>
+          <button type="button" class="btn_close" title="닫기"><span class="icon-Close"></span></button>
+        </div>
+
+        <div class="search_content">
+          <form action="" method="get">
+            <legend><span class="blind">컨텐츠 검색</span></legend>
+            <div class="box_form">
+              <span class="icon-Search"></span>
+              
+                <input type="text" name="search" title="검색어 입력" placeholder="SEARCH" value="" class="inp_search"
+                  onkeypress="if (event.keyCode == 13) { try{window.location.href='/search/'+looseURIEncode(document.getElementsByName('search')[0].value);document.getElementsByName('search')[0].value='';return false;}catch(e){} }">
+              
+              <button type="button" title="검색어 삭제" class="btn_search_del">
+                <svg xmlns="http://www.w3.org/2000/svg" width="23" height="23" viewBox="0 0 36 36" class="img_svg">
+                  <defs>
+                    <path id="textDelBtnSvg" d="M20 2C10.059 2 2 10.059 2 20s8.059 18 18 18 18-8.059 18-18S29.941 2 20 2zm8 24.6L26.6 28 20 21.4 13.4 28 12 26.6l6.6-6.6-6.6-6.6 1.4-1.4 6.6 6.6 6.6-6.6 1.4 1.4-6.6 6.6 6.6 6.6z" />
+                  </defs>
+                  <g fill="none" fill-rule="evenodd" transform="translate(-2 -2)">
+                    <path d="M0 0h40v40H0z" />
+                    <mask id="textDelBtnSvgMask" fill="#fff">
+                      <use xlink:href="#textDelBtnSvg" />
+                    </mask>
+                    <g fill="#000" fill-opacity="1" mask="url(#textDelBtnSvgMask)" class="svg_bg">
+                      <path d="M0 0h40v40H0z" />
+                    </g>
+                  </g>
+                </svg>
+              </button>
+            </div>
+          </form>
+
+          
+              <!-- 태그 -->
+              <div class="tag_zone">
+                <h3 class="title_sidebar">태그</h3>
+                <div class="box_tag">
+                  
+                </div>
+              </div>
+            
+              <!-- 최근글 -->
+              <div class="tag_board">
+                <h3 class="title_sidebar">최근글</h3>
+                <ul class="list_sidebar">
+                  
+                    <li class="item_sidebar"><a href="/2"> 안녕하세요</a></li>
+                  
+
+                    <li class="item_sidebar"><a href="/1"> 환영합니다!</a></li>
+                  
+                </ul>
+              </div>
+            
+              <!-- 최근 댓글 -->
+              <div class="tag_board">
+                <h3 class="title_sidebar">댓글</h3>
+                <ul class="list_sidebar">
+                  
+                </ul>
+              </div>
+            
+              <!-- 공지사항 -->
+              
+                <div class="tag_board">
+                  <h3 class="title_sidebar">공지사항</h3>
+                  <ul class="list_sidebar">
+                    
+                  </ul>
+                </div>
+              
+            
+              <!-- 글 보관함 -->
+              <div class="tag_board">
+                <h3 class="title_sidebar">아카이브</h3>
+                <ul class="list_sidebar">
+                  
+                    <li class="item_sidebar"><a href="/archive/202206">2022/06</a></li>
+                  
+                </ul>
+              </div>
+            
+        </div>
+
+      </div>
+    </div>
+    <!-- // area_popup -->
+
+    <main id="main">
+      <!-- area_cover -->
+      
+      <!-- // area_cover -->
+
+      
+        <!-- area_category / 카테고리 타입 따로 css 변경 category_type_notice / category_type_related-->
+        <div class="area_category category_type_notice category_search_list">
+          <h2 class="title_section">전체 글<span>(2)</span></h2>
+
+          <ul class="list_category">
+            
+              <li class="item_category">
+                <a href="/2" class="link_category">
+                  <span class="thumnail item-thumbnail" ></span>
+                  <div class="info">
+                    <strong class="name">안녕하세요<img src="https://t1.daumcdn.net/tistory_admin/assets/blog/tistory-09c71475f879581a73050d7dc9cf01bf9f75e06d/blogs/image/category/new_ico_5.gif?_version_=tistory-09c71475f879581a73050d7dc9cf01bf9f75e06d" style="vertical-align:middle;padding-left:5px;width:10px;height:10px;"/> </strong>
+                    <p class="text summary">제니님 이렇게 하면 될까요? 이제 깃허브에 이걸 올려 볼거지요 감사해요 정말정말 ㅎㅎ 우리의 등불</p>
+                    <span class="date">2022.06.28</span>
+                  </div>
+                </a>
+              </li>
+            
+              <li class="item_category">
+                <a href="/1" class="link_category">
+                  <span class="thumnail item-thumbnail" style="background-image:url('https://blog.kakaocdn.net/dn/rqtxn/btrFWxLxy3E/sUZ7Q0jolWMUHoo6ezTzhK/img.jpg')"></span>
+                  <div class="info">
+                    <strong class="name">환영합니다!<img src="https://t1.daumcdn.net/tistory_admin/assets/blog/tistory-09c71475f879581a73050d7dc9cf01bf9f75e06d/blogs/image/category/new_ico_5.gif?_version_=tistory-09c71475f879581a73050d7dc9cf01bf9f75e06d" style="vertical-align:middle;padding-left:5px;width:10px;height:10px;"/> </strong>
+                    <p class="text summary">#1 글을 작성하고 블로그를 관리해보세요. joo*님의 회원 가입을 진심으로 축하합니다. 이 글은 비공개로 작성돼 있습니다. '편집'으로 내용을 바꾸시거나, 삭제 후 '새 글을 작성'하셔도 됩니다. 글 뿐만 아니라 블로그의 각종 설정을 변경할 수도 있습니다. '블로그관리'를 확인해보세요. #2 다양한 스킨이 있어요. 티스토리에 있는 다양한 '스킨'도 살펴 보세요. 블로그나 사이트를 사용하는 목적에 맞게 스킨을 고를 수 있습니다. 어떤 이야기를 주로 하실 건가요? 잘 생각해 보시고, 마음에 드는 스킨을 고르세요. '스킨 편집'을 통해 다양한 커스텀, 그리고 홈 꾸미기를 적용하실 수도 있답니다. #3 포럼에서 사람들과 소통하세요. 마지막으로 사용하시다가 티스토리에 대해 궁금한 내용이 있다면 '포럼'을 확인하..</p>
+                    <span class="date">2022.06.28</span>
+                  </div>
+                </a>
+              </li>
+            
+          </ul>
+        </div>
+        <!-- // area_category -->
+      
+
+      <!-- area_view -->
+      <div class="area_view">
+        
+
+          
+        
+
+          
+        
+      </div>
+      <!-- // area_view -->
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+        <!-- area_paging -->
+        <div class="area_paging">
+          <a  class="link_page link_prev no-more-prev"><span class="icon-Keyboard-Arrow---Left"></span></a>
+          <div class="paging_num thema_apply">
+            
+              <a  class="link_num"><span class="selected">1</span></a>
+            
+          </div>
+          <a  class="link_page link_next no-more-next"><span class="icon-Keyboard-Arrow---Right"></span></a>
+        </div>
+        <!-- // area_paging -->
+      
+    </main>
+
+    </div>
+    <!-- // container -->
+
+    
+
+    <!-- footer -->
+    <footer id="footer">
+      <div class="inner_footer">
+        
+          <a href="https://www.tistory.com/" class="link_footer">티스토리</a>
+        
+        
+        
+        
+      </div>
+      <div>
+        <address>© 2018 TISTORY. All rights reserved.</address>
+      </div>
+
+    </footer>
+    <!-- // footer -->
+
+    </div>
+    <!-- // wrap -->
+  
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.7.3/styles/atom-one-light.min.css">
+<script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.7.3/highlight.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.7.3/languages/delphi.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.7.3/languages/php.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.7.3/languages/python.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.7.3/languages/r.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.7.3/languages/ruby.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.7.3/languages/scala.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.7.3/languages/shell.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.7.3/languages/sql.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.7.3/languages/swift.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.7.3/languages/typescript.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.7.3/languages/vbnet.min.js"></script>
+<script>hljs.initHighlightingOnLoad();</script><script src="//search1.daumcdn.net/search/statics/common/js/g/search_dragselection.min.js"></script>
+
+	<script>
+	    lightbox.option({
+			"fadeDuration": 200,
+		    "resizeDuration": 200,
+		    "wrapAround": false,
+			"albumLabel": "%1 / %2",
+			"fitImagesInViewport":true ,
+			"stopEvent": false
+	    })
+	</script>            <script type="text/javascript" src="//t1.daumcdn.net/tiara/js/v1/tiara.min.js"></script>
+            <script type="text/javascript">window.tiara = {"svcDomain":"user.tistory.com","section":"\ud648","trackPage":"\ud648_\ubcf4\uae30","page":"\ud648","key":"5437383","customProps":{"userId":"5444556","blogId":"5437383","role":"owner","filterTarget":false,"trackPage":"\ud648_\ubcf4\uae30"},"entry":[],"sentryDsn":"https:\/\/a53520229cd744e798d42900d76b0e2a@aem-ingest.onkakao.net\/713","kakaoAppKey":"b8aef3eeb03fa312b81795386484f051","appUserId":"2317601896"};</script>
+            <script type="text/javascript" src="https://t1.daumcdn.net/tistory_admin/assets/blog/tistory-09c71475f879581a73050d7dc9cf01bf9f75e06d/blogs/script/tiara/tiara.min.js?_version_=tistory-09c71475f879581a73050d7dc9cf01bf9f75e06d" defer></script>
+                        <script type="text/javascript">
+                window.roosevelt_params_queue = window.roosevelt_params_queue || [{channel_id: 'dk', channel_label: 'tistory'}];
+            </script>
+            <script type="text/javascript" src="//t1.daumcdn.net/midas/rt/dk_bt/roosevelt_dk_bt.js" async></script><script type="text/javascript">if(window.console!=undefined){setTimeout(console.log.bind(console,"%cTISTORY","font:8em Arial;color:#EC6521;font-weight:bold"),0);setTimeout(console.log.bind(console,"%c  나를 표현하는 블로그","font:2em sans-serif;color:#333;"),0);}</script><iframe style="position:absolute;width:1px;height:1px;left:-100px;top:-100px" src="//joo-sk.tistory.com/api" id="editEntry"></iframe><div id="tistoryEtcLayer" class="layer_post"></div><div id="tistorySnsLayer" class="layer_post"></div></body>
+<script>
+  $('.article_view').find('table').each(function (idx, el) {
+    $(el).wrap('<div class="table-overflow">')
+  })
+</script>
+
+</html>
